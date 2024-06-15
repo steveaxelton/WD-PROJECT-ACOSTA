@@ -6,10 +6,10 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/images/Logo.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Header and Footer Designs</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -35,7 +35,7 @@
       <a href="#overview">Overview</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
+          <a href="#key-components">Header and Footer Designs</a>
         </li>
         <li>
           <a href="#technology">Technology</a>
@@ -59,11 +59,7 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+This project aims to provide different, creative, and unique examples of header and footer designs.
 
 ### Key Components
 <!-- TODO: List of Key Components -->

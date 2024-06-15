@@ -24,19 +24,216 @@ body {
     }
 .gallery {
     padding: 100px 0;
+    color:#ff0707
     
 }
 
-.design {
-    background-color: #fa6660;
-    padding: 20px;
-    margin-bottom: 20px;
-    border: 1px solid #f55151;
+.design-1 {
+    header {
+        background-color: #F0F0F0;
+        padding: 20px 0;
+      }
+      
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1000px;
+        margin: 0 auto;
+      }
+      
+      .logo {
+        flex: 1;
+      }
+      
+      nav {
+        flex: 2;
+        text-align: right;
+      }
+      
+      nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+      
+      nav li {
+        display: inline-block;
+        margin-left: 20px;
+      }
+      
+      nav a {
+        text-decoration: none;
+        color: #333;
+      }
+}
+.design-2 {
+    header {
+        background-color: #333;
+        color: #fff;
+        padding: 20px 0;
+      }
+      
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 1000px;
+        margin: 0 auto;
+      }
+      
+      .logo {
+        text-align: center;
+        flex: 2;
+      }
+      
+      nav {
+        display: flex;
+        flex: 1;
+      }
+      
+      nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+      
+      .left, .right {
+        flex-direction: column;
+      }
+      
+      nav li {
+        margin-bottom: 10px;
+      }
+      
+      nav a {
+        text-decoration: none;
+        color: #fff;
+      }
 }
 
+
+.design-3 {
+    header.bg-image {
+        background-image: url("../../../../assets/images/kentaro-miura-berserk-guts-wallpaper-preview.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 400px; 
+      }
+      
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #ff0707;
+        text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+        text-align: center;
+      }
+      
+      .logo {
+        flex: 1;
+      }
+}
+
+.design-4 {
+    body {
+        margin: 0;
+        font-family: sans-serif;
+      }
+      
+      .diagonal-header {
+        display: flex;
+        height: 30vh; 
+        overflow: hidden;
+        position: relative;
+      }
+      
+      .left-side {
+        background-color: #ff6f6f;
+        color: #fff;
+        flex: 1;
+        padding: 40px;
+        text-align: center;
+        animation: slide-in-left 0.5s ease-in-out forwards;
+      }
+      
+      .right-side {
+        flex: 2;
+        background-image: url("../../../../assets/images/Leave.jpg"); /
+        background-size: cover;
+        background-position: center;
+        animation: slide-in-right 0.5s ease-in-out forwards;
+      }
+      
+      .cta-button {
+        background-color: #fff;
+        color: #333;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        margin-top: 20px;
+        cursor: pointer;
+      }
+.design-5 {
+      
+      .dot-header {
+        background-color: #F0F0F0;
+        padding: 20px;
+      }
+      
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1000px;
+        margin: 0 auto;
+      }
+      
+      
+      
+      nav {
+        flex: 2;
+        text-align: right;
+      }
+      
+      nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+      
+      nav li {
+        display: inline-block;
+        margin-left: 20px;
+      }
+      
+      nav a {
+        text-decoration: none;
+        color: #333;
+      }
+      
+      .dots {
+        display: flex;
+        justify-content: flex-end;
+      }
+      
+      .dot {
+        width: 10px;
+        height: 10px;
+        background-color: #333;
+        border-radius: 50%;
+        margin-left: 10px;
+        cursor: pointer;
+        animation: dot-pulse 1s infinite alternate ease-in-out;
+      }
+      
+      }
+
+}
 .design h3 {
     margin-top: 0;
 }
+
 
 
 
