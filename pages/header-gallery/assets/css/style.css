@@ -1,0 +1,42 @@
+body {
+    background-image: url("../../../../assets/images/Gutz.jpg");
+}
+.button-container {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+   
+    }
+    
+    .btn {
+    display: inline-block;
+    margin: 0%;
+    padding: 20px 20px;
+    background-color: #f12c2c;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+    }
+    
+    .btn:hover {
+    background-color: #ee5a54;
+    }
+.gallery {
+    padding: 100px 0;
+    
+}
+
+.design {
+    background-color: #fa6660;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #f55151;
+}
+
+.design h3 {
+    margin-top: 0;
+}
+
+
+
