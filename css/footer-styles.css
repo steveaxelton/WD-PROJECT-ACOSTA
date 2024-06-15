@@ -1,13 +1,13 @@
 .gallery {
     padding: 50px 0;
-    background-color: #ffc445;
+    background-color: #7573f5;
 }
 
 .design {
-    background-color: #006680;
+    background-color: #512786;
     padding: 20px;
     margin-bottom: 20px;
-    border: 2px dashed #1a8cff;
+    border: 2px dashed #f73ebf;
 }
 
 .design h3 {
