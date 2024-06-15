@@ -10,7 +10,6 @@ body, html {
     max-width: 1200px;
 }
 
-/* Header Styles */
 header {
     background-image: url('../images/kentaro-miura-berserk-guts-wallpaper-preview.jpg');
     background-size: cover;
@@ -20,7 +19,7 @@ header {
 }
 
 .logo img {
-    max-width: 150px;
+    max-width: 100px;
     height: auto;
 }
 
@@ -44,12 +43,11 @@ header {
     margin-top: 50px;
 }
 
-/* Main Sections */
+
 .section {
     padding: 50px 0;
 }
 
-/* Footer Styles */
 footer {
     background-color: #333;
     color: #fff;
@@ -58,9 +56,6 @@ footer {
 }
 header-styles.css
 
-css
-Copy code
-/* Header Gallery Specific Styles */
 .gallery {
     padding: 50px 0;
     background-color: #f2f2f2;
