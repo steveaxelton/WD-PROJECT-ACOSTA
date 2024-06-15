@@ -12,9 +12,9 @@ body, html {
 
 /* Header Styles */
 header {
-    background-image: url('../images/Gutz.jpg');s
+    background-image: url('../images/Gutz.jpg');
     background-size: cover;
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     padding: 80px 0;
 }
