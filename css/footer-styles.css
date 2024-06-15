@@ -1,0 +1,15 @@
+.gallery {
+    padding: 50px 0;
+    background-color: #e6f7ff;
+}
+
+.design {
+    background-color: #ccf0ff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px dashed #1a8cff;
+}
+
+.design h3 {
+    margin-top: 0;
+}
