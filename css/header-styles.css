@@ -1,15 +1,15 @@
 .gallery {
     padding: 100px 0;
-    background-color: #8409f8;
+    background-color: #f76157;
     background-image: url(../images/blood.jpg);
     
 }
 
 .design {
-    background-color: #8021fc;
+    background-color: #fa6660;
     padding: 20px;
     margin-bottom: 20px;
-    border: 1px solid #c339fa;
+    border: 1px solid #f55151;
 }
 
 .design h3 {
