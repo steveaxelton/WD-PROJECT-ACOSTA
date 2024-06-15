@@ -32,7 +32,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview">Overview</a>
+      <a href="#overview">Landing Page</a>
       <ol>
         <li>
           <a href="#key-components">Header and Footer Designs</a>
@@ -64,9 +64,9 @@ This project aims to provide different, creative, and unique examples of header 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Multipage Website
+- Proper incorporation of learnings
+- Creativity
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -113,4 +113,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| References | Most of the programs and functions I used are frome this website| https://www.w3schools.com |

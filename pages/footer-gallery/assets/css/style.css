@@ -1,6 +1,6 @@
-.gallery {
-    padding: 50px 0;
-    background-color: #f57373;
+
+body {
+    background-image: url(../../../../assets/images/grif.jpg);
 }
 
 .design {
@@ -13,3 +13,4 @@
 .design h3 {
     margin-top: 0;
 }
+
